@@ -1,6 +1,6 @@
 ## Introduccion
 
-Hola, un desarrollador con experiencia en varios lenguajes de programación. Me apasiona la tecnología y siempre estoy en busca de nuevos desafíos y oportunidades para aprender y crecer profesionalmente. A continuación, muestro algunos de los lenguajes y tecnologías que manejo en una pequeña Web que realice.
+Hola, soy un desarrollador con experiencia en varios lenguajes de programación. Me apasiona la tecnología y siempre estoy en busca de nuevos desafíos y oportunidades para aprender y crecer profesionalmente. A continuación, muestro algunos de los lenguajes y tecnologías que manejo en una pequeña Web que realice.
 
 ## Imagen 
 
